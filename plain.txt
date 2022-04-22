@@ -4,6 +4,8 @@ BIOGRAFIA!
 
 Hola mi nombre es Alejandro Andrade Soriano, tengo 24 anios de edad y estoy recuperandome de la pandemia y de los malos habitos que he arrastrado por los ultimos 2 anios. Actualmente me siento estancado debido a que no puedo mejorar algunos ambitos que anteriormente era pro. Por ejemplo quiero volver a ser un pro en programacion de nuevo.
 
+Naci en Mexico y adoro los tacos al pastor.
+
 --------------------------------->
 
 Codigo de prueba para el curso de git y github.
