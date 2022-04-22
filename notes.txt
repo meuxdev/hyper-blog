@@ -1,0 +1,7 @@
+history -> muestra la historia
+cat -> muestra el continido de un archivo, usefull with plain text files.
+rm <fileName> -> remove the file
+git status -> shows the status of the cached files
+git rm -> remove files, not the cached files. Only the ones that exist on commits.
+git rm --cached -> removes the files that are on cache and still not added to the commit.
+
