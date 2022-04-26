@@ -43,4 +43,5 @@ REMOTE COMMANDS
 git remote add <nameOfConnection> <url>
 git remote add origin https://github.com
 git remote -v -> lists all the remotes paths
+git remote set-url <nameOfConnection> <newUrl>
 
