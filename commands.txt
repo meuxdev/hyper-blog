@@ -1,0 +1,17 @@
+
+rm <fileName> -> remove the file
+git status -> shows the status of the cached files
+git rm -> remove files, not the cached files. Only the ones that exist on commits.
+git rm --cached -> removes the files that are on cache and still not added to the commit.
+git commit -m "Message here" -> adds the commit with the changes to the repository.
+git config --global --unset user.name -> un sets the config for global github. You can pass all the properties on the gitconfig.
+
+
+git show <fileName> -> shows all the changes on a specific file.
+git log <fileName> -> shows all the commits on the file with the comments.
+git diff <idCommit> <idCommit2> -> shows the differences between 2 commits.
+git diff -> changes between the staging vs the actual repository of git.
+
+
+
+
