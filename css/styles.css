@@ -41,3 +41,7 @@ body {
     color: palevioletred;
     display: block;
 }
+
+#post {
+    font-family: "Victor Mono";
+}
