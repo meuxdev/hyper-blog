@@ -50,4 +50,20 @@ git pull <remote> <branch>
 git pull origin main -> brings the last changes of the remote origin of the branch main
 
 
+TAGS 
+
+git tag -> logs all the tags of the project
+
+CREATE A TAG  -> git tag -a <nameOfTag> -m <messageForTheTag" <gitCommitID>
+
+git tag -d <nameOfTag> -> deletes the tag locally.
+
+git push origin --tags -> uploads the changes on github.
+
+git push origin :refs/tags/<nameTag> -> deletes the tag of github. IMPORTANT 
+                                                                    - First you need to delete de tag locally.
+
+
+
+
 
