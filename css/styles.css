@@ -19,3 +19,8 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+
+#post {
+    font-family: "Victor Mono";
+}
