@@ -15,6 +15,8 @@ git diff -> changes between the staging vs the actual repository of git.
 git reset <idCommit> --hard -> removes permanent the changes and does not saves on staging anything.
 git reset <idCommit> --soft -> goes back to the commit but saves the changes on cache "stage".
 
+git log --stats -> shows the stats of the changes.
+
 
 
 
