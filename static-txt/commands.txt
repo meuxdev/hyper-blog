@@ -38,4 +38,9 @@ git log -S “Por contenido”- Buscar los commits con el contenido dentro del a
 git log > log.txt - guardar los logs en un archivo txt
 
 
+REMOTE COMMANDS
+
+git remote add <nameOfConnection> <url>
+git remote add origin https://github.com
+git remote -v -> lists all the remotes paths
 
