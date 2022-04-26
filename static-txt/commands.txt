@@ -45,3 +45,6 @@ git remote add origin https://github.com
 git remote -v -> lists all the remotes paths
 git remote set-url <nameOfConnection> <newUrl>
 
+git pull <remote> <branch>
+git pull origin main -> brings the last changes of the remote origin of the branch main
+
