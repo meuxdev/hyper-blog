@@ -66,4 +66,10 @@ git push origin :refs/tags/<nameTag> -> deletes the tag of github. IMPORTANT
 
 
 
+BRANCH DISPLAY
+
+git show-branch -> shows branches with details.
+git show-branch --all -> shows branches with extra details
+git branch -> shows in a very short format all the branches
+
 
