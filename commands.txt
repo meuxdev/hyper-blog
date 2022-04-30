@@ -38,4 +38,10 @@ git log -S “Por contenido”- Buscar los commits con el contenido dentro del a
 git log > log.txt - guardar los logs en un archivo txt
 
 
+BRANCH DISPLAY
+
+git show-branch -> shows branches with details.
+git show-branch --all -> shows branches with extra details
+git branch -> shows in a very short format all the branches
+
 
