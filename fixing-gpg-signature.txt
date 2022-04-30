@@ -1,6 +1,0 @@
-https://lifesaver.codes/answer/wsl-ubuntu-git-gpg-signing-inappropriate-ioctl-for-device-4029
-
-
-In case of having an error with gpg fatal sign.
-WSL 2. 
-Using GPG
