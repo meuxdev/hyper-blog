@@ -45,3 +45,24 @@ body {
 #post {
     font-family: "Victor Mono";
 }
+
+
+footer {
+    background-color: rgba(102, 102, 153, 0.2);
+    font-family: "Victor Mono";
+    padding: 1rem;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-size: 12px;
+    text-align: center;
+}
+
+footer h4 {
+    font-weight: lighter;
+}
+
+
+footer h4 small {
+    color: pink;
+}
