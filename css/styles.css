@@ -87,3 +87,9 @@ footer h4 {
 footer h4 small {
     color: pink;
 }
+
+
+.author {
+    font-style: italic;
+    color: palevioletred;
+}
