@@ -1,2 +1,7 @@
 # For the swap files of vim
 *.swp
+
+
+# for binary
+*.jpg
+
