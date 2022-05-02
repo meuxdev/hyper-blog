@@ -1,0 +1,15 @@
+GIT STASH
+-------------------------------
+
+git stash -> saves the changes that had not been commited on a temporary memory
+
+git stash list -> shows the stash that you have currently. And the last commit.
+
+git stash pop -> brings back the changes like when you did the stash.
+
+git stash drop -> does NOT bring the changes back. It deletes the temp memory. 
+
+git stash branch <nameBranch> -> creates a new branch and applies the pop so that in the new branch the prev.
+modifications are visible.
+
+
