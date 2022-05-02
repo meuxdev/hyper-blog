@@ -1,0 +1,12 @@
+
+AMEND
+
+----------------
+
+Helps you to edit the actual commit. This will add the new changes to the same commit, no one will know you 
+made a mistake. Also is usefull to change the msg of the commit.
+
+git commit --amend 
+
+
+Remember you can add more changes or you can just change the commit text.

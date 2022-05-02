@@ -1,0 +1,11 @@
+
+CHERRY PICK
+============
+
+Takes a single specific commit and paste that on the current branch without any oportunity of mod the commit message and also brings all the changes.
+
+$ git cherry-pick <id_of_commit>
+
+this will paste that commit on the current branch.
+
+

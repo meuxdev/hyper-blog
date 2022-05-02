@@ -1,0 +1,11 @@
+REFLOG
+-----------------
+
+Reference Log
+
+shows all the reference of the commits. ALL ALL the history of the commit. Even when you did a reset. All the
+information is right there.
+Usefull when the proyect is out of control and there are changes want to be returned. You can use git reflog 
+to verify the last reference to the commit and then use the command reset.
+
+
