@@ -1,0 +1,8 @@
+
+LOG ->
+$ git log -s "header" -> search in the commits all the words related with header.
+
+GREP ->
+$ git grep "Hola mundo" -> looks on all the files tracked on git any coincidence with the word.
+			-c -> count the amount of times
+			-n -> shows the line of the code that the word is used.
