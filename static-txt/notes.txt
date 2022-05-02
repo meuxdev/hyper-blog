@@ -1,0 +1,30 @@
+
+GIT REBASE NOTES
+--------------------------------
+
+1- Go to the branch that you want to disapear.
+
+$ git checkout del-branch
+
+
+2- Lest think that here we have some commits that are not merged with the main branch.
+So we want to paste this commits without changing anything visible on the history of the 
+main branch.
+
+On the "del-branch" we need to make the first rebase. To the branch that you want to attach the history
+in this case the main branch is the one.
+
+$ git rebase main
+
+Then we should go again to the main branch to paste the changes on the main branch.
+
+$ git checkout main
+$ git rebase del-branch
+
+And now the del-branch history is pasted on the main branch with no evidence of the previous existing branch.
+
+Now you can delete the branch.
+
+$ git branch -d del-branch
+
+REMEMBER ITS VERY IMPORTANT TO first make the rebase on the branch to rebase and then on the branch we wanna paset the changes.
