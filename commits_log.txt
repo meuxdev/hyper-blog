@@ -1,0 +1,57 @@
+Alejandro AS (17):
+      New commit with the new config.  Changes to be committed: 	modified:   notes.txt
+      The biography was updated. This commit is the third one and just testing the features of git. <3  Changes to be committed: 	modified:   plain.txt
+      add -> starting real project with html and css
+      add -> the commands diff, reset
+      mod -> added some random text to emty.
+      replace -> empty.txt the first commit with new words
+      add -> Commands: Adding the log commands.
+      Added a post and the styles for the post.  Changes to be committed: 	modified:   blogpost.html 	modified:   css/styles.css
+      Base estructure of the header.
+      Added the new styling to the font.
+      Final details on the header with styles.
+      Adding other post to my blog post
+      Merge branch 'header' Solving the conflicts on blogpost.html
+      Merge branch 'post-styling' -> Adding the post styles to the master.
+      mod -> blogpost: deleted the simple header
+      Adding other post to my blog post merging
+      Change the structure of the project. New Directories. On branch main Changes to be committed: 	new file:   README.txt 	renamed:    blogpost.html -> static-html/blogpost.html 	renamed:    commands.txt -> static-txt/commands.txt 	renamed:    empty.txt -> static-txt/empty.txt 	renamed:    my_history.txt -> static-txt/my_history.txt 	renamed:    plain.txt -> static-txt/plain.txt
+
+Alejandro Andrade (33):
+      adding some commands to the notes.
+      adding more commands to my notes.
+      adding new commands
+      adding new commands
+      adding the fixing for the gpg signature
+      random commit
+      delete the random file
+      Adding the tags commands to the notes.
+      Adding new commands to the notes
+      Merge branch 'header' into main
+      Adding the correct path for the css files.
+      Removing the gpg output signature.
+      Adding the image to the files
+      Changes on the commit: [add] Logo for the header [mod] styles for the header [add] Image logo
+      Removing the gpg file signature
+      Footer styles and components on HTML finishedgc -am
+      Merge branch 'footer' into main
+      Adding the author to the post.
+      Adding the styles to the author tag.
+      Merge pull request #1 from meuxdev/hot-fixing
+      Adding the jpg to the gitignore
+      Adding index.html so that this runs on github pages
+      Master 1
+      Master 2
+      Experiment 1
+      Experiment 2
+      Adding notes of the rebase.
+      Adding the notes for the stash
+      Adding a p about a command
+      Adding a p about a command git cherry pick.
+      Adding the notes of cherry pick, amend, reflog
+      Merge of the origin main, confilct solved with the index.html
+      Adding the note for the git grep and git log -S
+
+alextremesoy (1):
+      First commit.
+
