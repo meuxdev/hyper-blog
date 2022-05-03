@@ -1,0 +1,21 @@
+COLLAB COMMANDS
+---------------------------
+
+git shortlog -sn -> shows how many commands has place every member of the team
+
+git shortlog -sn --all -> all the commits even the ones deleted
+
+git shortlog -sn --all --no-merge -> this one shows the amount of commits per member of the team with the 
+																		 difference that this does not takes in consideration the merges commits.
+
+git blame <FILENAME> -> this command shows who made every change on that file.
+
+git COMMAND --help -> shows all the properties and extra information about the command.
+
+git blame <FILENAME> -L<LineStarting>,<LineEnd>
+$ git blame index.js -L2,32 -> shows who changed the file in the speciffic lines.
+
+
+git branch -r -> shows the remote branches
+git branch  -a -> shows all the branches.
+
