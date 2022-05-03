@@ -1,0 +1,20 @@
+CSS FILES
+-------------------
+styles.css
+HTML FILES
+---------------
+index.html
+------------
+STATIC TXT
+-------------
+commands.txt
+empty.txt
+my_history.txt
+notes.txt
+notes_cherry_pick.txt
+notes_collab.txt
+notes_commit_amend.txt
+notes_reflog.txt
+notes_searching.txt
+notes_stash.txt
+plain.txt

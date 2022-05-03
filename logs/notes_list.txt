@@ -1,0 +1,6 @@
+static-txt/notes_cherry_pick.txt
+static-txt/notes_collab.txt
+static-txt/notes_commit_amend.txt
+static-txt/notes_reflog.txt
+static-txt/notes_searching.txt
+static-txt/notes_stash.txt
